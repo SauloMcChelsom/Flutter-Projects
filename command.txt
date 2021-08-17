@@ -1,0 +1,17 @@
+dart --version
+
+flutter devices
+
+flutter run -d chrome
+
+flutter pub get
+
+flutter pub add splashscreen
+
+flutter build apk
+
+flutter create my_app
+	 cd my_app
+	 flutter analyze
+	 flutter test
+	 flutter run lib/main.dart
